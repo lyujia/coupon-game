@@ -17,7 +17,7 @@
 
 이 구조는 **인터페이스 분리**를 통해 각 기능을 독립적으로 테스트 가능하게 하며, 코드의 유지보수를 용이하게 합니다.
 
-##Table
+## Table
 ![Table](https://github.com/user-attachments/assets/25326554-ea31-4677-8a72-48d13eb4ad44)
 
 
