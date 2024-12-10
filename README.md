@@ -11,7 +11,6 @@
   - **Aggregate**: 쿠폰 도메인의 핵심 객체들 (예: 쿠폰, 쿠폰 로그)
   - **Service**: 도메인 로직을 처리하는 서비스
   - **Port**: 외부와의 인터페이스 (Repository 등)
-- **UseCase**: 애플리케이션의 비즈니스 로직을 처리하는 영역
 - **Adapter**:
   - **APIController**: REST API의 엔드포인트를 처리
   - **DTO**: 데이터 전송 객체 (API 요청 및 응답 처리)
